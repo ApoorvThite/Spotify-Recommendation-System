@@ -72,6 +72,7 @@ bash
 Copy
 Edit
 jupyter notebook Spotify_Recommendation_System.ipynb
+```
 Run cells in order to see:
 
 Cleaned data
